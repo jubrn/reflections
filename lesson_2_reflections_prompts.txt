@@ -1,3 +1,5 @@
 it gets added to git. somehow
 
 its a middleware between both that allows to specify certain commits to the repo
+
+use diff
