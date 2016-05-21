@@ -7,3 +7,5 @@ use diff
 It could be helpful to have branches for backups, experimental versions aND SO ON
 
 they show when a branch was heading a other path
+
+You get all the commits from both branches into the master branch
