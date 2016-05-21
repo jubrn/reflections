@@ -1,0 +1,12 @@
+It is possible to find bugs in a more effective way
+
+It is easier to work in a team and to see just the changes others did
+
+You have the power to split your commits into logical seperated commits
+but if there are technical problems you might loose your changes. With an
+automatical comit every so often chances are high that you didnt loose so much
+progress
+
+It allows to commit whole projects
+
+The ability to checkout older checksums to find the bug
