@@ -3,3 +3,5 @@ it gets added to git. somehow
 its a middleware between both that allows to specify certain commits to the repo
 
 use diff
+
+It could be helpful to have branches for backups, experimental versions aND SO ON
