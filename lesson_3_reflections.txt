@@ -8,3 +8,5 @@ which doesnt apper as forks on github. branchens aredkdkkd
 which doesnt apper as forks on github. branchens aredkdkkd
 
 to keep version blabla
+
+It would be easier to commit changes but much harder to get a code reviewed
