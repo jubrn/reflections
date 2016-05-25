@@ -1,3 +1,8 @@
 if you work together if other people you may want a online repo.
 
 Its possible that you want to check the changes first.
+
+forks are clones in github but they are directly added. Clones are clones
+which doesnt apper as forks on github. branchens aredkdkkd
+
+which doesnt apper as forks on github. branchens aredkdkkd
